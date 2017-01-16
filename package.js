@@ -18,7 +18,7 @@ Package.onUse(function(api) {
     'ecmascript',
     'tracker',
     'minimongo@1.0.0',
-    'datamaker:fast-render@2.16.0',
+    'datamaker:fast-render@2.17.0',
     'datamaker:inject-data@2.0.0',
     'tmeasday:check-npm-versions@0.2.0'
   ]);

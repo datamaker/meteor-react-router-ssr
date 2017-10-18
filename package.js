@@ -1,6 +1,6 @@
 Package.describe({
   name: 'datamaker:react-router-ssr',
-  version: '3.1.9',
+  version: '3.2.0',
   summary: 'Server-side rendering for react-router and react-meteor-data rehydratating Meteor subscriptions',
   git: 'https://github.com/datamaker/meteor-react-router-ssr.git',
   documentation: 'README.md'

@@ -60,7 +60,7 @@ const ReactRouterSSR = {
       if (typeof clientOptions.renderHook === 'function') {
         clientOptions.renderHook(app, rootElement);
       } else {
-        ReactDOM.render(app, rootElement);
+        ReactDOM.hydrate(app, rootElement);
       }
 
       let collectorEl = document.getElementById(clientOptions.styleCollectorId || 'css-style-collector-data')

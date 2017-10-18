@@ -17,12 +17,12 @@
     "ssr",
     "server-rendering"
   ],
-  "author": "Benoit Tremblay <benoit@thereactivestack.com>",
+  "author": "Jungbin Kwon <wjdqls1342@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/thereactivestack/meteor-react-router-ssr/issues"
+    "url": "https://github.com/datamaker/meteor-react-router-ssr/issues"
   },
-  "homepage": "https://github.com/thereactivestack/meteor-react-router-ssr#readme",
+  "homepage": "https://github.com/datamaker/meteor-react-router-ssr#readme",
   "dependencies": {
     "cheerio": "^0.20.0",
     "cookie-parser": "^1.4.1",
